@@ -9,7 +9,6 @@ Geometric algorithms with OpenGL.
 - Polygon triangulation
 - Polygon clipping
 - Boolean operations on polygons
-
 - Nearest neighbor
 - Point location / Point in polygon
 - Range searching
