@@ -1,4 +1,4 @@
-# gaol
+# geal
 Geometric algorithms with OpenGL.
 
 ## Computational geometry
